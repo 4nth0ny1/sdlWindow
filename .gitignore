@@ -1,0 +1,9 @@
+crpg.sln
+crpg.vcxproj
+crpg.vcxproj.filters
+crpg.vcxproj.user
+.vs
+.git
+./x64
+x64
+/x64
